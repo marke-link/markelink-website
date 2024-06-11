@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Portafolio",
+      "url": "/blog"
+    },
+    {
+      "name": "Paquetes",
+      "url": "/pricing"
+    },
+    {
+      "name": "Preguntas Frecuentes",
+      "url": "/faq"
+    },
+    {
+      "name": "Nuestros Servicios",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "¿Quiénes Somos?",
+      "menu": [
+        {
+          "text": "Contactanos",
+          "url": "#"
+        },
+        {
+          "text": "Política de Privacidad",
+          "url": "/privacy-policy"
+        },
+        {
+          "text": "Términos y Condiciones",
+          "url": "/terms-conditions"
+        }
+      ]
+    },
+    {
+      "name": "Producto y Servicios",
+      "menu": [
+        {
+          "text": "Paquetes",
+          "url": "/pricing"
+        }
+      ]
+    },
+    {
+      "name": "Soporte",
+      "menu": [
+        {
+          "text": "Preguntas Frecuentes",
+          "url": "/faq"
+        }
+      ]
+    }
+  ]
+}
