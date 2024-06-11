@@ -10,7 +10,7 @@ banner:
 
 # feature
 feature: 
-  title: Nuestros Servicios
+  title: Nuestros Serviciosddd
   button:
     enable: true
     label: Ver Más
