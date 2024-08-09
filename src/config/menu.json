@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Nuestros Servicios",
+      "url": "/our-services"
+    },
+    {
       "name": "Portafolio",
       "url": "/blog"
     },
@@ -13,12 +17,8 @@
       "url": "/pricing"
     },
     {
-      "name": "Preguntas Frecuentes",
-      "url": "/faq"
-    },
-    {
-      "name": "Nuestros Servicios",
-      "url": "/contact"
+      "name": "Nuestro Equipo",
+      "url": "/our-team"
     }
   ],
   "footer": [

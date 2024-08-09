@@ -7,7 +7,7 @@ const entry = (await getEntryBySlug("faq", "index")) as TPostType;
 const { title, description, faqs } = entry.data;
 ---
 
-<Base title={title} description={description}>
+<Base description={description}>
   <section class="section">
     <div class="container">
       <h1 class="text-center font-normal" set:html={markdownify(title)} />

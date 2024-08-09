@@ -1,5 +1,5 @@
 ---
-title: Periodo de Tiempo
+title: Nuestros Paquetes | Agencia Markelink Ramos Arizpe, Coahuila
 description: "meta description"
 draft: false
 plans:
@@ -14,7 +14,6 @@ plans:
 
 - title: Mediano plazo (3-6 meses)
   subtitle: Optimización continua de la presencia en línea, incluyendo SEO y gestión de redes sociales.
-  price: 
   type: month
   recommended: true
   features:
